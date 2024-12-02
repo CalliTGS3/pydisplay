@@ -1,0 +1,11 @@
+{
+    "urls": [
+      ["board_config.py", "github:PyDevices/pydisplay/board_configs/busdisplay/spi/waveshare_round-gc9a01-esp32-s3-touch/board_config.py"],
+      ["gc9a01.py", "github:PyDevices/pydisplay/drivers/display/gc9a01.py"],
+      ["cst8xx.py", "github:PyDevices/pydisplay/drivers/touch/cst8xx.py"]
+    ],
+    "deps": [
+      ["github:PyDevices/pydisplay/packages/spibus.json", "main"]
+    ],
+    "version": "0.1"
+  }
